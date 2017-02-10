@@ -1,7 +1,13 @@
 body{
   font-family: 'Montserrat', sans-serif;
+  width: 70% ;
+  margin: 0 auto;
 
 }
+
+img {
+  width: 100%
+  }
 
 h1 {
   text-transform: uppercase;
